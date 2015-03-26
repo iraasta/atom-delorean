@@ -1,10 +1,9 @@
 {
   "name": "delorean",
   "main": "./lib/delorean",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "You miss IntelliJ jumps in cursor history?\n Delorean will help You jump in history of Your editions",
   "commands": {
-    "atom-workspace": "delorean:backward",
     "atom-workspace": "delorean:forward"
   },
   "repository": "https://github.com/iraasta/atom-delorean",
