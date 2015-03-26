@@ -1,7 +1,7 @@
 {
   "name": "delorean",
   "main": "./lib/delorean",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "You miss IntelliJ jumps in cursor history?\n Delorean will help You jump in history of Your editions. Even between different files",
   "commands": {
     "atom-workspace": "delorean:forward"
