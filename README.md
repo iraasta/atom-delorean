@@ -1,5 +1,4 @@
-# ascii-art package
+Jump backward and forward in buffers like in Intellij IDEA.
 
-Convert selected text to ascii art banner
-
-This is the source code for the [create your own package](https://atom.io/docs/latest/hacking-atom-package-modifying-text) tutorial.
+`Ctrl+alt+;` -> Backward
+`Ctrl+alt+'` -> Forward
